@@ -6,6 +6,7 @@ public class SimpleGit {
 	System.out.println("sdfsfgbnsdfkbm");
 	System.out.println("sdfsdfsd");
 	System.out.println("sdfsdfsdfb");
+	System.out.println("test123");
 	}
 
 }
